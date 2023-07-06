@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-   Welcome to <em>Mohamed Elashmawy</em>'s profile! 
+   Welcome to <em>Ahmed Khalid </em>'s profile! 
   <img src="https://komarev.com/ghpvc/?username=m-ashmawy&style=flat-square&label=VIEWS">
 </h1>
 
@@ -11,8 +11,8 @@
 
 
 
-- 🏢 I’m currently training in ITI in Front-end & Cross Platform Mobile Development Track.
-- 💬 Ask me about my experience with JavaScript, and ReactJS, or anything related to Front-end web development.
+- 🏢  I'm a Software Enginee
+- 💬 Ask me about my experience with JavaScript,C++,Java, and ReactJS, or anything related to Front-end web development and problem solving .
 - 👨‍💻 Check out my portfolio at &nbsp; <img src="https://media.giphy.com/media/JoWK4dUIsYK4Fv0E0D/giphy.gif" width="50"> &nbsp; to see some of the projects I've worked on.
 - 🌱 I’m currently working on React Projects.
 - 👯 I’m looking to collaborate with many developer to work in different projects. 
@@ -33,16 +33,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-013?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-013?style=for-the-badge&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-013?style=for-the-badge&logo=bootstrap&logoColor=0969da)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-013?style=for-the-badge&logo=sass)&nbsp;
-![Pug.js](https://img.shields.io/badge/-Pug-013?style=for-the-badge&logo=pug)&nbsp;
-![React.js](https://img.shields.io/badge/-React-013?style=for-the-badge&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-013?style=for-the-badge&logo=redux)&nbsp;
-![Angular.js](https://img.shields.io/badge/-Angular-013?style=for-the-badge&logo=angular)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-013?style=for-the-badge&logo=node.js&logoColor=339933)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-013?style=for-the-badge&logo=jest)&nbsp;
-![WebPack](https://img.shields.io/badge/-WebPack-013?style=for-the-badge&logo=WebPack)&nbsp;
-![React.native](https://img.shields.io/badge/-React%20Native-013?style=for-the-badge&logo=react)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-013?style=for-the-badge&logo=Flutter)&nbsp;
+<!--![Node.js](https://img.shields.io/badge/-Node.js-013?style=for-the-badge&logo=node.js&logoColor=339933)&nbsp;-->
 ![Git](https://img.shields.io/badge/-Git-013?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-013?style=for-the-badge&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-013?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
@@ -52,8 +43,6 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-013.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-013.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![GitHubPages](https://img.shields.io/badge/GitHub%20Pages-013.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-013.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-013.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 <br/><br/>
 
 <details> 
