@@ -35,7 +35,6 @@
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
-![Problem Solving](https://img.shields.io/badge/-problem solving%20-05122A?style=flat&logo=problem solving)&nbsp;
 
 
 
