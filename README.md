@@ -11,7 +11,7 @@
 
 
 
-- 🏢  I'm a Software Enginee
+- 🏢  I'm a Software Engineer
 - 💬 Ask me about my experience with JavaScript,C++,Java, and ReactJS, or anything related to Front-end web development and problem solving .
 - 👨‍💻 Check out my portfolio at &nbsp; <img src="https://media.giphy.com/media/JoWK4dUIsYK4Fv0E0D/giphy.gif" width="50"> &nbsp; to see some of the projects I've worked on.
 - 🌱 I’m currently working on React Projects.
